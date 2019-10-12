@@ -8,8 +8,8 @@ require "header.php";
 
 <div style='color:gray;class='container-fluid'>
 <div class='row'>
-<div style='margin-bottom:3em;' class='col-12 text-center'>
-<h2 contenteditable="true">Tell us something</h2>
+<div style='margin-top:4em;margin-bottom:3em;' class='col-12 text-center'>
+<h2 >Tell us something</h2>
 </div>
 </div>
 <div class='row'>
