@@ -20,7 +20,7 @@ function type() {
 </script>
 <div class='container-fluid'>
 <div class='row'>
-<div class='col-12 headimg text-center'><h2 style='margin-top:550px;color:white;' id='headt'></h2><h4 class='text-center'>Graphic Design/Typesetting/Photography</h4><p class='text-center'><a href='https://m.facebook.com/trendidesigns/'><i class='fab fa-facebook-f fa-1x' style='color:white;'></i></a></p><p>Sarah Rachman</p>
+<div class='col-12 headimg text-center'><h2 style='margin-top:550px;color:white;' id='headt'></h2><h4 class='text-center'>Graphic Design/Typesetting/Photography</h4><p class='text-center'><a href='https://m.facebook.com/572676096087513'><i class='fab fa-facebook-f fa-1x' style='color:white;'></i></a></p><p>Sarah Rachman</p>
 </div>
 </div>
 
