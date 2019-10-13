@@ -1,6 +1,6 @@
 <?
 require "top.php";
-$titlepage = 'Enlightenment Home Page';
+$titlepage = 'Enlightenment, consultation and quotations';
 require "header.php";
 
 

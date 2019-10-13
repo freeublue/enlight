@@ -1,6 +1,6 @@
 <?
 require "top.php";
-$titlepage = 'Enlightenment Home Page';
+$titlepage = 'Enlightenment, about Sarah Rachmann';
 require "header.php";
 
 
@@ -15,7 +15,7 @@ require "header.php";
 <div class='col-6'><h2>Sarah Rachmann</h2><p class='wow fadeInDown'>Lorem ipsum dolor sit amet, pellentesque malesuada in, non vivamus, quam diam consequat. Id duis, sit ac vitae, consectetuer et nulla. Et egestas wisi, arcu in, diam nulla eget. Diam imperdiet. Nulla mollis, dapibus lectus in. Eu magna, massa magna, elementum pharetra.<br>
 Commodo erat, aliquet luctus donec. Curabitur libero, pharetra sem aenean. Tortor rutrum, vel ultricies non. Odio magna, diam fermentum. Integer sed magna, pellentesque aenean vestibulum, quis purus.</p>
 </div>
-<div class='col-6'>
+<div class='col-6'><img src='sarah.jpg' class='img-fluid' />
 </div>
 </div>
 
